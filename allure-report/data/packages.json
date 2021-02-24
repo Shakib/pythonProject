@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Pytest.test_firstTest",
+    "children" : [ {
+      "name" : "test_openChrome",
+      "uid" : "5c363d50d70f6a2e",
+      "parentUid" : "8026d0ba861f8a73860e37cd11b4496d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1612482132947,
+        "stop" : 1612482143928,
+        "duration" : 10981
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "Pytest.test_firstTest"
+  } ]
+}

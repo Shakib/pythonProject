@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Feb 05 00:42:12 CET 2021","Fri Feb 05 00:42:23 CET 2021","10981","Pytest","test_firstTest","TestNO1","","","test_openChrome",""

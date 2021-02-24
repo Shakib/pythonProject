@@ -1,0 +1,11 @@
+[ {
+  "uid" : "5c363d50d70f6a2e",
+  "name" : "test_openChrome",
+  "time" : {
+    "start" : 1612482132947,
+    "stop" : 1612482143928,
+    "duration" : 10981
+  },
+  "status" : "passed",
+  "severity" : "minor"
+} ]

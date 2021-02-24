@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-O7FV5V6",
+    "children" : [ {
+      "name" : "20644-MainThread",
+      "children" : [ {
+        "name" : "test_openChrome",
+        "uid" : "5c363d50d70f6a2e",
+        "parentUid" : "91e37d89cf0c990100f09720f372b7b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1612482132947,
+          "stop" : 1612482143928,
+          "duration" : 10981
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "91e37d89cf0c990100f09720f372b7b6"
+    } ],
+    "uid" : "217f7e3a3878f1fdc8fd6d75327d340f"
+  } ]
+}

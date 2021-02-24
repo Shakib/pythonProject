@@ -1,0 +1,75 @@
+{
+  "uid" : "5c363d50d70f6a2e",
+  "name" : "test_openChrome",
+  "fullName" : "Pytest.test_firstTest.TestNO1#test_openChrome",
+  "historyId" : "21c200f803b35098522b76f8721461ad",
+  "time" : {
+    "start" : 1612482132947,
+    "stop" : 1612482143928,
+    "duration" : 10981
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d27b792cfd4a4f4b",
+      "name" : "testLogins",
+      "source" : "d27b792cfd4a4f4b.png",
+      "type" : "image/png",
+      "size" : 138721
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Pytest"
+  }, {
+    "name" : "suite",
+    "value" : "test_firstTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestNO1"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-O7FV5V6"
+  }, {
+    "name" : "thread",
+    "value" : "20644-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Pytest.test_firstTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5c363d50d70f6a2e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Pytest",
+    "children" : [ {
+      "name" : "test_firstTest",
+      "children" : [ {
+        "name" : "TestNO1",
+        "children" : [ {
+          "name" : "test_openChrome",
+          "uid" : "5c363d50d70f6a2e",
+          "parentUid" : "807f38bc301c379a4b101d84a322e28d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1612482132947,
+            "stop" : 1612482143928,
+            "duration" : 10981
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "807f38bc301c379a4b101d84a322e28d"
+      } ],
+      "uid" : "a870aada095afb06f0dd412f39aa225b"
+    } ],
+    "uid" : "8a1d0618934f4c29d2d24aa8f95cf3ef"
+  } ]
+}
